@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Projeto Simples de uma Arvore de Natal </h1>
+<h1>Projeto Simples de um Site que aprendi a fazer no dev club </h1>
 
 <h2>Tecnologias Usadas</h2>
 
@@ -9,6 +9,6 @@
 
 </div>
 <div disply="flex" >
-<img src="https://raw.githubusercontent.com/Thiii123/projeto3devclub/main/assets/Galaxy-S201.png" width="200" />
+<img src="https://raw.githubusercontent.com/Thiii123/projeto3devclub/main/assets/Samsung-Galaxy-S201.png" width="200" />
   <img src="https://raw.githubusercontent.com/Thiii123/projeto3devclub/main/assets/Macbook-Air1.png"  width="500" top="200"  />
 </div>
